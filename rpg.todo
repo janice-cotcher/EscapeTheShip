@@ -1,5 +1,5 @@
 Tasks:
-    ☐ create README file
+    ✔ create README file @done(2019-10-03 08:58) @project(Tasks)
     ☐ create changelog
     ☐ create main game file
     ✔ upload files to GitHub @done(2019-10-02 10:50) @project(Tasks)
@@ -7,3 +7,8 @@ Tasks:
 Game:
     ☐ Think of a name for the Game
     ☐ Finish the psedocode
+
+Classes:
+    ☐ Inventory
+    ☐ Map
+    ☐ Enemies
